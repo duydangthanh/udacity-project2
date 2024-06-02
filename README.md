@@ -22,3 +22,12 @@ Successful URL responses should have a 200 code. Ensure that you include error c
 ## License
 
 [License](LICENSE.txt)
+
+
+
+
+
+
+
+An endpoint URL for a running elastic beanstalk deployment (EB_URL): 
+http://my-eb-env.eba-pkwmpvav.us-west-2.elasticbeanstalk.com/filteredimage?image_url=https://upload.wikimedia.org/wikipedia/commons/b/bd/Golden_tabby_and_white_kitten_n01.jpg
